@@ -35,11 +35,11 @@ The exact files may vary depending on the version of the project.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/choudharyanushka2323-sudo/Jarvis-Voice-Assistant
 cd Jarvis
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's HTTPS URL.
+
 
 ### 2. Check your Python version
 
