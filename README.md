@@ -69,7 +69,7 @@ Follow the prompts and grant microphone access if required.
 
 ## 🎬 Demo
 
-A demonstration video will be added here.
+https://www.linkedin.com/feed/update/urn:li:activity:7520417127460233216/
 
 ## 📚 What I Learned
 
